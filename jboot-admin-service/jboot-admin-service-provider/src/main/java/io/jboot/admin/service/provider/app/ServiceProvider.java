@@ -7,7 +7,7 @@ import io.jboot.Jboot;
  * @author Rlax
  *
  */
-public class Application {
+public class ServiceProvider {
     public static void main(String [] args){
         Jboot.run(args);
     }

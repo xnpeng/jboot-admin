@@ -28,7 +28,7 @@ public class MainController extends BaseController {
      * 调转登录页面
      */
     public void login() {
-
+        render("login.html");
     }
 
     /**

@@ -1,4 +1,4 @@
-package io.jboot.b2c;
+package io.jboot.admin;
 
 import io.jboot.Jboot;
 
@@ -7,7 +7,7 @@ import io.jboot.Jboot;
  * @author Rlax
  *
  */
-public class Application {
+public class AdminApp {
     public static void main(String [] args){
         Jboot.run(args);
     }

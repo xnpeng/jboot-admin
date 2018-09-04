@@ -7,7 +7,7 @@ import io.jboot.Jboot;
  * @author Rlax
  *
  */
-public class Application {
+public class B2CServiceProvider {
     public static void main(String [] args){
         Jboot.run(args);
     }
