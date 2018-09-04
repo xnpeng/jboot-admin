@@ -7,7 +7,7 @@ import io.jboot.Jboot;
  * @author Rlax
  *
  */
-public class Application {
+public class WechatApp {
     public static void main(String [] args){
         Jboot.run(args);
     }
